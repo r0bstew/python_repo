@@ -1,0 +1,17 @@
+elif - "else if"
+
+else
+
+try: and except: are like insurance if try fails
+
+
+def - "define a function"
+ex. def test():
+		print ('test')
+		print ('test2')
+test() -- output would be test	
+						  test2
+						  
+					
+return - a function that produces a result (or return value)
+	   - the return statement ends the function execution and 'sends back' the result of the function
